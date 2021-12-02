@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="icon1">@drawable/icon1_background</drawable>
+    <drawable name="icon2">@drawable/icon2_background</drawable>
+    <drawable name="icon3">@drawable/icon3_background</drawable>
+    <drawable name="icon4">@drawable/icon4_background</drawable>
+    <drawable name="icon5">@drawable/icon5_background</drawable>
+</resources>
